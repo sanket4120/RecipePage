@@ -186,14 +186,14 @@ header {
 
 /* --------footer-------- */
 
-footer,
-footer a {
+footer {
   text-align: center;
   font-weight: 500;
   color: #828282;
 }
 
 footer a {
+  color: inherit;
   text-decoration: underline;
 }
 
